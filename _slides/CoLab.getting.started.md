@@ -26,7 +26,7 @@ theme: black
 # CoLab
 * Google product/service
 * Modeled on Jupyter Notebooks
-* https://colab.research.google.com/
+* [https://colab.research.google.com/](https://colab.research.google.com/)
 * New Notebook
 
 ---
@@ -85,7 +85,7 @@ theme: black
 ---
 
 # CoLab features
-* https://colab.research.google.com/
+* [https://colab.research.google.com/](https://colab.research.google.com/)
 * ToC
 * Search-n-Replace
 * Variable inspector
@@ -111,9 +111,9 @@ theme: black
 ---
 
 # References
-* CoLab - https://colab.research.google.com/
-* Wikipedia - https://en.wikipedia.org/wiki/Project_Jupyter
-* Jupyter https://jupyter.org/
+* CoLab - [https://colab.research.google.com/](https://colab.research.google.com/)
+* Wikipedia - [https://en.wikipedia.org/wiki/Project_Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
+* Jupyter - [https://jupyter.org/](https://jupyter.org/)
 
 ---
 
