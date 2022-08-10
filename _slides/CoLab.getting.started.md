@@ -70,12 +70,12 @@ theme: black
 ---
 
 # Use case #1: Linux Phrasebook
-* demo notebook - 
+* demo notebook - [LPB](https://colab.research.google.com/drive/1ukuYA0fV7m06mTsT9V8yi6CfeYBGctt6#scrollTo=9MY2IX--9F4z)
 
 ---
 
 # Use case #2: Learning C
-* demo notebook - 
+* demo notebook - [C in Colab](https://colab.research.google.com/drive/1YlKJEzN6-bD3eaKyR4b8cpMbkt5ln9aN#scrollTo=7fY894GM_2kM)
 
 ---
 
@@ -85,7 +85,7 @@ theme: black
 ---
 
 # CoLab features
-* [https://colab.research.google.com/](https://colab.research.google.com/)
+* https://colab.research.google.com/
 * ToC
 * Search-n-Replace
 * Variable inspector
@@ -111,9 +111,9 @@ theme: black
 ---
 
 # References
-* CoLab - [https://colab.research.google.com/](https://colab.research.google.com/)
-* Wikipedia - [https://en.wikipedia.org/wiki/Project_Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
-* Jupyter - [https://jupyter.org/](https://jupyter.org/)
+* CoLab - https://colab.research.google.com/
+* Wikipedia - https://en.wikipedia.org/wiki/Project_Jupyter
+* Jupyter https://jupyter.org/
 
 ---
 
@@ -124,7 +124,6 @@ theme: black
 ---
 
 ---
-
 
 
 # Convert Notebook to Markdown
@@ -135,7 +134,7 @@ You'll need to mount Google Drive first.
 ls -la ./drive/MyDrive/Colab\ Notebooks/CoLab.getting.started.ipynb
 ```
 
-    -rw------- 1 root root 11526 Aug 10 20:30 './drive/MyDrive/Colab Notebooks/CoLab.getting.started.ipynb'
+    -rw------- 1 root root 4934 Aug 10 23:09 './drive/MyDrive/Colab Notebooks/CoLab.getting.started.ipynb'
 
 
 
@@ -144,7 +143,7 @@ ls -la ./drive/MyDrive/Colab\ Notebooks/CoLab.getting.started.ipynb
 ```
 
     [NbConvertApp] Converting notebook ./drive/MyDrive/Colab Notebooks/CoLab.getting.started.ipynb to markdown
-    [NbConvertApp] Writing 10115 bytes to ./CoLab.getting.started.md
+    [NbConvertApp] Writing 2943 bytes to ./CoLab.getting.started.md
 
 
 
